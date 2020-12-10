@@ -143,7 +143,7 @@ sections:
   new_doc_ext: toml
 upload_dir: exampleSite/static/images
 public_path: "/images"
-front_matter_path: ''
+front_matter_path: "/images"
 use_front_matter_path: true
 file_template: ":filename:"
 build:
